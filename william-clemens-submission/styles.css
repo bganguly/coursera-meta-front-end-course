@@ -1,0 +1,111 @@
+body {
+  background-color: rgb(96, 221, 127);
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 16pt;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+.main-article > p {
+  color: rgba(229, 245, 10, 0.993);
+}
+header > img {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80px;
+}
+
+.head-logo:hover {
+  animation: rotation 1s infinite linear;
+}
+
+@keyframes rotation {
+  25% {
+    transform: rotate(20deg);
+  }
+  75% {
+      transform: rotate(-20deg);
+    }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(210, 231, 116);
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  width: 500px;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+article {
+  flex: 1;
+  margin: 12px;
+  border-radius: 20px;
+  border: 1px solid;
+  padding: 1rem;
+  text-align: center;
+  color:rgb(240, 9, 9);
+  background-color: rgb(160, 231, 102);
+}
+
+.main-article {
+  background-image: url('arizona-landscape.jpg');
+  background-size: cover;
+}
+
+.textual:hover {
+  box-shadow: 5px 0px 25px black;
+}
+
+.article-image {
+  width:100%;
+  object-fit: cover;
+}
+
+footer {
+  display: flex;
+}
+
+.foot-logo {
+  align-self: flex-start;
+}
+
+.foot-copyright {
+  text-align: end;
+}
+
+footer > div {
+  flex: auto;
+}
+
+footer > div > img {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+}

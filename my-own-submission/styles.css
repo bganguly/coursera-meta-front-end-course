@@ -1,0 +1,66 @@
+body {
+  background-color: #EDEFEE;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+header > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0%;
+}
+
+nav li {
+  width:13%;
+  text-align: center;
+}
+
+section {
+  display: flex;
+}
+
+article {
+  flex: 1;
+}
+
+article > div {
+  margin: auto 25%;
+}
+
+footer {
+  display: flex;
+}
+
+footer div {
+  flex: 1;
+}
+
+footer div img {
+  width: 10%;
+}
+
+footer div p {
+  border-top: 1px black solid;
+  font-size: smaller;
+  padding-top: 2%;
+  text-align: right;
+}

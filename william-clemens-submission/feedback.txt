@@ -1,0 +1,16 @@
+Does the home page create adequate interaction and a pleasing visual experience that is fitting for the client and its customers?
+- on first glance it does not appear pleasing  (overall). likely too many colors. Additionally a light color text on deep color background makes it quite hard to read, and may result in the business side not getting the traction it deserves- https://drive.google.com/file/d/16M8uCqmL3WHIcbbqzgbM09Yrhl2PkTYH/view?usp=sharing
+
+Are CSS styling and effects used effectively to create intentional engagement?
+- yes. Css can be simplified quite a bit- and ideally should not be larger than in the video in the course. One understand the animation on the logo- but since the images are not uploadable- could not test/guage that effectively. However the animation css looks correct and the placeholder does rotate. Some mixing of width in px and %/rems could have been avoided.
+
+What works well?
+- generally well structured content- shows engagement - as the class repeatedly points out
+- excellent metatags- especially the og: tags.
+
+What advice can you give to improve the user experience, layout and visuals of the home page?
+- too many colors - as shown in my screenshot. Could be more muted.
+- the font appears way too small- check iphone se emulation via chrome console- at 100% size. While responsiveness is not in scope- it indicates some problems with the css for regualr sized displays
+
+
+overall great work !

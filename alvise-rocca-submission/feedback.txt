@@ -1,0 +1,16 @@
+Does the home page create adequate interaction and a pleasing visual experience that is fitting for the client and its customers?
+- yes.
+
+Are CSS styling and effects used effectively to create intentional engagement?
+- yes. Css can be simplified quite a bit- and ideally should not be larger than in the video in the course.
+
+What works well?
+- generally well structured content- shows engagement - as the class repeatedly points out
+
+What advice can you give to improve the user experience, layout and visuals of the home page?
+- the metatags can be provided- for seo optimisation.
+- the structure can be done using either grid or flexbox. mixing them is not necessary
+- the border/bar over the copyright extends just over the text 'copyright'- it ought to cover the entire right half- as in the sample shown in the class
+- might be better to spell out copyright company name- rather than leave at just copyright and some single accented character
+
+overall great work !

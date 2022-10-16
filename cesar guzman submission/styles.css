@@ -1,0 +1,204 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+
+body
+{
+background-image: url("https://images.unsplash.com/photo-1535242208474-9a2793260ca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80");
+background-repeat: no-repeat;
+background-size: cover;
+margin-top: 3rem;
+margin-bottom: 3rem;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+
+h1 {
+    font-family: sans-serif;
+    font-size: 2rem;
+    color: ivory;
+}
+
+h1:hover {
+    color: aquamarine;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 2rem;
+    color: ivory;
+}
+
+h2:hover {
+    color: aquamarine;
+}
+
+
+p {
+    font-family: sans-serif;
+    font-size: 2rem;
+    color: ivory;
+    text-align: center;
+}
+
+p:hover {
+    color: aquamarine;
+}
+
+header > img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7rem;
+    height: 11rem;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 2rem;
+    word-spacing: 8rem;
+    font-family: sans-serif;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+a {
+    color:ivory;
+}
+
+nav li {
+    display: inline-block;
+}
+
+li a:hover {
+    color: aquamarine;
+}
+
+
+.promotion {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+
+
+
+.promotionPlant {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid;
+    border-color: aquamarine;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.product-card {
+    background: olivedrab;
+    width: 350px;
+    height: 550px;
+    margin: 10px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.card-image {
+    color: aquamarine;
+    height: 250px;
+    margin-bottom: 15px;
+    border-radius: 30px;
+}
+
+.plant-1 {
+    background-image: url(https://neuroticmommy.com/wp-content/uploads/2020/01/Why-you-should-hang-eucalyptus-in-the-shower-8.jpg);
+    background-size: cover;
+    
+}
+
+.plant-2 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0062/8532/8445/products/Cordyline_Ti_tree_4.jpg?v=1607375091&width=1000);
+    background-size: cover;
+    background-position-y: -2rem;
+}
+
+.plant-3 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_large-snake-plant-laurentii_variant_01_70374093-6cce-4e5b-8d95-37ceac4926bd.jpg?v=1660320223);
+    background-size: cover;
+    background-position: -1rem;
+}
+
+.plant-1~a {
+    background-color: black;
+    color: ivory;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+.plant-1~a:hover {
+    background-color: green;
+    color: aquamarine;
+}
+
+.plant-2~a {
+    background-color: black;
+    color: ivory;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+.plant-2~a:hover {
+    background-color: green;
+    color: aquamarine;
+}
+
+.plant-3~a {
+    background-color: black;
+    color: ivory;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+.plant-3~a:hover {
+    background-color: green;
+    color: aquamarine;
+}
+
+hr {
+    border-color: aquamarine;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 1;
+}
+
+footer {
+    display: flex;
+}
+
+footer div {
+    flex: 1;
+}
+
+footer p {
+    float: right;
+    color: black;
+}

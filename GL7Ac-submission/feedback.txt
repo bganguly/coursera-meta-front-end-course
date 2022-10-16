@@ -1,0 +1,11 @@
+Does the home page create adequate interaction and a pleasing visual experience that is fitting for the client and its customers?
+- yes- except , for the main content, the text color is white, so on the typical website nothing is visible. this shows that we are relying on the presence of a large grey or other colored ing for it to be readable.
+
+Are CSS styling and effects used effectively to create intentional engagement?
+- yes. Css can be simplified quite a bit- and ideally should not be larger than in the video in the course.
+What works well?
+- generally well structured content and metatags
+What advice can you give to improve the user experience, layout and visuals of the home page?
+- the content/text color should never be white.
+- the alt on the images could be more better - for screen readers
+- the incorrect usage of flex/grid for main content means it does not render okay on smaller screens- like iphone SE (use chrome console)

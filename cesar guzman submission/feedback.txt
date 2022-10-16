@@ -1,0 +1,19 @@
+Does the home page create adequate interaction and a pleasing visual experience that is fitting for the client and its customers?
+- too many images overall
+- too many hover effects (these should be used sparingly)
+- use of all uppercase in links is jarring
+
+Are CSS styling and effects used effectively to create intentional engagement?
+- the css is far too complex (it will be evident in later vidoes- currently locked) that it can be simplified significantly
+
+What works well?
+- the general 'theme' of a plan based background intent is fine. But its implementation is not conducive to business purposes
+
+What advice can you give to improve the user experience, layout and visuals of the home page?
+- fix missing closing tag on 2nd img elem in html
+- simplify css
+- no need for hover text on every single text
+- styskeet declaration goes _inside_ suitable tag
+- no need for hrs
+- consider correct usage of primary body elemnsts- these should just be header/nav/main/footer
+

@@ -1,0 +1,7 @@
+- generally only a single css and a single html file is expected. However i understand that you likely zipped up one file (from github etc)- and used that same file for submission. I have looked into the zip file- incl the images.
+- excellent work- but looks like too much css has been used. Many other learners have been able to provide correct styling with roughly half to 1/3rd of the size of the css file submitted (number of lines)
+- also looks like some css/structure might have been improved - https://drive.google.com/file/d/1qYM9kUXAmosBKxMeBY4ioyGObLekGMvn/view?usp=sharing
+- deducted some marks (unfortunately)- as no :hover effect etc as shown in one of the earlier videos has been done
+- metatags would have been nice (and incl og tags even better)- however no marks deducted
+
+great finished work !

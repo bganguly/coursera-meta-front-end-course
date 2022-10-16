@@ -1,0 +1,16 @@
+Does the home page create adequate interaction and a pleasing visual experience that is fitting for the client and its customers?
+- on first glance it does not appear pleasing  (overall). likely too many colors. Additionally not having the right layout container makes somewhat smamler displays not render correctly - https://drive.google.com/file/d/1dGze4njUjp3hQPPHsJmpBG8HZvAhdHMA/view?usp=sharing
+
+Are CSS styling and effects used effectively to create intentional engagement?
+- yes. Css can be simplified quite a bit- and ideally should not be larger than in the video in the course. Good work on the hover state css.
+
+What works well?
+- generally well structured content- shows engagement - as the class repeatedly points out
+- excellent metatags- especially the og: tags.
+
+What advice can you give to improve the user experience, layout and visuals of the home page?
+- too many colors - as shown in my screenshot. Could be more muted.
+- minor mistakes in css and html - https://drive.google.com/file/d/1TJp4fB3a8UV5jHSDmT9JFf_40PS6o_RG/view?usp=sharing
+
+
+overall great work !
